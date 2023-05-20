@@ -32,7 +32,3 @@ libcunn8
 
 # References
 Please refer to the generate.py file for a list of references and resources used in the development of this music generation project.
-
-Feel free to explore the code and experiment with different MIDI files to generate unique and original music compositions.
-
-Enjoy the music generation experience!
