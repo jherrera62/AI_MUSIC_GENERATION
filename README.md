@@ -1,7 +1,7 @@
-#Music Generation with Tensorflow
+# Music Generation with Tensorflow
 This program utilizes Tensorflow to generate music by taking MIDI files as input and producing new MIDI files as output. The project is documented in the generate.py file, which contains the code used to create this music generation system.
 
-#Usage
+# Usage
 To use this program, follow these simple steps:
 
 Make sure you have the necessary dependencies installed.
@@ -18,7 +18,7 @@ The generated matrix will be converted back into a MIDI file.
 
 The resulting MIDI file will be saved in the generated_songs folder.
 
-#Dependencies
+# Dependencies
 Before running the program, ensure that you have the following dependencies installed:
 
 Tensorflow
@@ -30,7 +30,7 @@ tqdm
 opencv-python
 libcunn8
 
-#References
+# References
 Please refer to the generate.py file for a list of references and resources used in the development of this music generation project.
 
 Feel free to explore the code and experiment with different MIDI files to generate unique and original music compositions.
